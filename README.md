@@ -3,11 +3,13 @@
 
 # MyLudoGame-Multiplayer
 
-An Beautiful Multiplayer Ludo Game Made Using Html & JavaScirpt.
+**An Beautiful Multiplayer Ludo Game Made Using Html & JavaScirpt.**
+
+**Clone**-: https://github.com/ankitRay1/MyLudoGame-Multiplayer.git
+
 
 ## Deploy on any server and enjoy the MyLudoGame-Multiplayer Game!!.
 
-**Clone**-: https://github.com/ankitRay1/MyLudoGame-Multiplayer.git
 
 ## Try Demo here (https://myludo.netlify.com)
 
@@ -15,13 +17,13 @@ An Beautiful Multiplayer Ludo Game Made Using Html & JavaScirpt.
 
 ## Features
  
- **1.A Simple But Awesome Looking Multiplayer Online Ludo Game.
+ **1.A Simple But Awesome Looking Multiplayer Online Ludo Game.**
  
- **2.Supports 2,3 & 4 Player Ludo Matches.
+ **2.Supports 2,3 & 4 Player Ludo Matches.**
  
- **3.Players Can Choose Their Favourite Colors and Names Which They Want to Play With.
+ **3.Players Can Choose Their Favourite Colors and Names Which They Want to Play With.**
  
- **4.Cool Sound Feedbacks Which Will Enhance Playing Experience.
+ **4.Cool Sound Feedbacks Which Will Enhance Playing Experience.**
  
 
 
